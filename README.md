@@ -2,8 +2,7 @@
 
 Megabyte Launcher is a truly minimal Android launcher with a tiny app size of just **183 KB**. It supports Android 5.0 (API 21) and above.
 
----
-
+   
 ## Icon License
 
 The app icon is provided by Google, sourced from the Android Studio Clip Art icons.  
